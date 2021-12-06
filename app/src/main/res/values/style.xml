@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <resources>
+        <style name="BackgroundStyle">
+            <item name="android:background">@color/light_pink</item>
+            <item name="backgroundTint">@color/light_pink</item>
+        </style>
+
+        <style name="ButtonStyle">
+            <item name="android:textSize">25sp</item>
+            <item name="android:backgroundTint">@color/aqua</item>
+            <item name="android:textAllCaps">true</item>
+            <item name="android:textColor">@color/purple</item>
+        </style>
+
+        <style name="TitleStyle">
+            <item name="android:textColor">@color/green</item>
+            <item name="android:textAllCaps">true</item>
+            <item name="android:textSize">30sp</item>
+        </style>
+
+        <style name="TextStyle">
+            <item name="android:textSize">22sp</item>
+        </style>
+
+    </resources>
